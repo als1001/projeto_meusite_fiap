@@ -1,0 +1,30 @@
+body{
+  background-color:deepskyblue;
+}
+
+.navbar {
+    background-image: url('images/nav_background.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 15vh;
+  }
+
+.container {
+  margin-top: 10vh;
+  text-align: center;
+  color: blue;
+}
+
+.container p {
+  font-size: large;
+}
+
+.logo {
+  height: 4vh;
+  margin: left 20vw;
+}
+
+form{
+  margin-top: 5vh;
+}
